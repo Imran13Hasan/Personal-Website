@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.name-color{
+    color: tomato;
+    font-size: 52px;
+    font-weight: bolder;
+}
+
+p{
+    color: dimgray;
+    margin-bottom: 40px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+    padding-top: 150px; 
+}
+
+#intro-text{
+    padding-top: 250px;
+}
+
+.half-width img{
+    width: 70%;
+}
+
+.link-button{
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 30px;
+    font-weight: 400;
+    background-image: linear-gradient(45deg, hotpink, tomato);
+}
+
+.header-area{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+
+    
+}
+
+section{
+    height: 600px;
+    padding-bottom: 300px;
+    
+}
+
+#bio-text{
+    padding-top: 250px;
+}
+
+.bio-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.work-pic{
+    width: 30%; 
+    float: left;
+    padding-top: 100px;
+}
+
+.work-pic img{
+    margin-left: 20%;
+    margin-right: auto;
+    width: 90%;
+}
+
+.work-area{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;   
+}
+
+.client-area{
+    background-image:url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:100%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,hotpink, tomato); padding: 30px 180px;
+    display: inline-block;
+    border-radius: 10px;
+    color: white;
+    font-weight: 400;
+}
+.last-sec{
+    padding-top: 50px;
+    font-size: 50px;
+}
+#last-section{
+    font-size: 12pt;
+    font-weight: 700;
+}
+#last-sec-2{
+    font-size: 10pt;
+    font-weight: 400;
+    color:dimgray;
+}
+#last-text{
+    font-weight: 700;
+}
+
+#mail{
+    text-decoration: none;
+    font-size: 18pt;
+    color: white;
+    font-weight: 400;
+}
+footer{
+    font-weight: 500;
+    padding-bottom: 30px;
+}
+
+
+
